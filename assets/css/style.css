@@ -1,0 +1,15 @@
+/* heading and logo */
+
+h1 {
+    font-family: Palanquin Dark, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: black;
+}
+
+#logo {
+    float: left;
+    font-size: 200%;
+    margin-left: 25px;
+    margin-top: 10px;
+}
