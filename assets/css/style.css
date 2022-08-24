@@ -20,8 +20,7 @@ header {
     width: 100%;
     position: fixed;
     top: 0;
-    right: 0;
-    z-index: 1;    
+    right: 0;    
 }
 
 #menu {
@@ -76,7 +75,11 @@ header {
 
 footer{
     background-color: #ff7900;
-    height: 80px;
+    padding: 0;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
 
 .footer-content{
