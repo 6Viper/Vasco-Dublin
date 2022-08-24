@@ -1,5 +1,3 @@
-/* heading and logo */
-
 h1 {
     font-family: Palanquin Dark, sans-serif;
     text-transform: uppercase;
@@ -10,30 +8,42 @@ h1 {
 #logo {
     float: left;
     font-size: 180%;
-    margin-left: 25px;   
-    margin-top: 0px;
+    margin-left: 150px;   
+    margin-top: 15px;
 }
 
 /* menu heading */
+
+header {
+    background-color: #27902B;
+    padding: 1em;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 3;    
+}
 
 #menu {
     font-size: 130%;
     letter-spacing: 2px;
 }
 
-#logo, #menu {
-    line-height: 60px;
+#logo, #menu { 
+    line-height: 40px;    
 }
 
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 30px;
+    margin-right: 20px;
+    margin-top: -10px;
 }
 
 #menu a {
     text-decoration: none;
     color: inherit;
+    height: auto;
 }
 
 #menu a:hover{
