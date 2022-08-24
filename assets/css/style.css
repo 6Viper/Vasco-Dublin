@@ -21,7 +21,7 @@ header {
     position: fixed;
     top: 0;
     right: 0;
-    z-index: 3;    
+    z-index: 1;    
 }
 
 #menu {
@@ -50,6 +50,9 @@ header {
     border-bottom: 1px solid black;
 }
 
-#admiral-island {
-    background: url('/assets/images/Almirante\ da\ ilha.png da\ ilha.png') no-repeat;   
+/* Admiral image */
+
+#admiral-image {
+        background: url('../images/Almirante\ da\ ilha.png') no-repeat left left;  
+         
 }
