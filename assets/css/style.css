@@ -49,3 +49,7 @@ header {
 #menu a:hover{
     border-bottom: 1px solid black;
 }
+
+#admiral-island {
+    background: url('/assets/images/Almirante\ da\ ilha.png da\ ilha.png') no-repeat;   
+}
