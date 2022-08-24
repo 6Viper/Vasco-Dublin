@@ -8,7 +8,7 @@ h1 {
 #logo {
     float: left;
     font-size: 180%;
-    margin-left: 150px;   
+    margin-left: 180px;   
     margin-top: 15px;
 }
 
@@ -52,7 +52,9 @@ header {
 
 /* Admiral image */
 
-#admiral-image {
-        background: url('../images/Almirante\ da\ ilha.png') no-repeat left left;  
-         
+.admiral-image img{
+    height: 120px;
+    width: 120px;
+    margin: 0px 0px 0px 30px;
+    border-radius: 100%;
 }
