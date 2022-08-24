@@ -63,7 +63,7 @@ header {
 /* Footer style */
 
 footer{
-    background-color: #FAD85F;
+    background-color: #ff7900;
     height: 80px;
 }
 
@@ -78,6 +78,6 @@ footer{
 .footer-content i{
     font-size: 160%;
     margin-bottom: 100px;
-    padding: 0 10px 0 200px;
+    padding: 0 100px 0 200px;
     color: black;
 }
