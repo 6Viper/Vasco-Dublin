@@ -59,6 +59,25 @@ header {
     float: left;
 }
 
+/* Main Body */
+
+.main-body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.left {
+    margin-left: auto;
+}
+
+.right {
+    margin-right: auto;
+}
+
+.aboutus {
+    font-weight: 100;
+}
+
 /* Gallery */
 
 #photos {
