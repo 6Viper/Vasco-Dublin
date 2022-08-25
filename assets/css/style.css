@@ -66,16 +66,22 @@ header {
     font-size: larger;
 }
 
-.left {
-    margin-left: auto;
+.about-left {
+    padding-top: 50px;
+    width: 40%;
+    float: left;
 }
 
-.right {
-    margin-right: auto;
+.joinus-right {
+    padding-top: 500px;
+    width: 40%;
+    float: right;
 }
 
-.aboutus {
-    font-weight: 100;
+#aboutus {
+    font-weight: 1000;
+    text-align: center;
+    
 }
 
 /* Gallery */
