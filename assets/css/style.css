@@ -90,9 +90,10 @@ header {
     background: url('../images/Jogadores\ em\ campo.jpeg') no-repeat;
     padding-top: 400px;
     height: 400px;
-    width: 60%;
+    width: 50%;
     float: right;
     margin-top: 400px;
+    background-size: contain;
 }
 
 #bar-photo {
@@ -100,6 +101,7 @@ header {
     padding-top: 800px;    
     width: 40%;
     float: left;
+    background-size: contain;
 }
 
 /* Gallery */
