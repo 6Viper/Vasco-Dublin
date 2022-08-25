@@ -84,6 +84,20 @@ header {
     
 }
 
+/* Main Body photos */
+
+#field-photo {
+    padding-top: 400px;
+    width: 40%;
+    float: right;
+}
+
+#bar-photo {
+    padding-top: 800px;    
+    width: 40%;
+    float: left;
+}
+
 /* Gallery */
 
 #photos {
