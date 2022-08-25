@@ -87,12 +87,16 @@ header {
 /* Main Body photos */
 
 #field-photo {
+    background: url('../images/Jogadores\ em\ campo.jpeg') no-repeat;
     padding-top: 400px;
-    width: 40%;
+    height: 400px;
+    width: 60%;
     float: right;
+    margin-top: 400px;
 }
 
 #bar-photo {
+    background: url('../images/Torcedores\ no\ bar.jpeg') no-repeat;
     padding-top: 800px;    
     width: 40%;
     float: left;
