@@ -118,7 +118,13 @@ header {
 
 /* Video */
 
-
+.video {
+    width: 50%;
+    height: 400px;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+}
 
 /* Join us  - contact us */
 
