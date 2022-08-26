@@ -1,9 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Playfair+Display&display=swap');
 
+/* Font Family */
+
 h1, h2, h3, h4 {
     font-family: "Playfair Display", sans-serif;
 }
 
 p {
     font-family: "Open Sans", serif;
+    font-size: medium;
+}
+
+/* Header style */
+
+header {
+    height: 150px;
+    width: auto;
+    background-color: #009A44;
+    
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
 }
