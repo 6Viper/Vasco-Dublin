@@ -126,13 +126,12 @@ header {
 
 /* Join us  - contact us */
 
-.form-section {
-    clear: left;
+.backgroundsign {   
     background: url('../images/Flags\ vasco\ dublin.jpg') no-repeat;
-    background-size: cover;
+    background-attachment: fixed;
     background-position: center;
-    height: 900px;
-}
+    background-size: cover;
+   }
 
 .signup-form {
     margin: 250px 60% 0 0;
@@ -202,3 +201,6 @@ footer{
     padding: 0 100px 0 200px;
     color: black;
 }
+
+
+   
