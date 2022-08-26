@@ -61,7 +61,7 @@ header {
 
 /* Main Body */
 
-.main-body {
+#main-body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: larger;
 }
@@ -217,7 +217,7 @@ footer{
 /* For larger to medium sceens size from 1200px wider and down */
 
 @media screen and (max-width: 1200px) {
-    .main-body {
+    #main-body {
         height: 1200px;
         width: 100%;
         margin: 0 auto;
@@ -229,7 +229,7 @@ footer{
 /* For medium screen sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
-    .main-body {
+    #main-body {
         height: 950px;
         width: 100%;
         margin: 0 auto;
@@ -254,7 +254,7 @@ footer{
 /* For small screen sizes below 800px width */
 
 @media screen and (max-width: 800px) {
-    .main-body {
+    #main-body {
         height: 800px;
         width: 100%;
         margin: 0 auto;
