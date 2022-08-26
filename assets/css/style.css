@@ -24,6 +24,8 @@ header {
     left: 0px;
 }
 
+/* Logo and Img */
+
 .admiral-image img {
     border-radius: 100%;
 
@@ -40,4 +42,33 @@ header {
 
     top: -10px;
     left: 10px;
+}
+
+/* Menu */
+
+#menu {
+    border: 1px solid;
+    height: 60%;
+    width: 30%;
+
+    position: absolute;
+    right: 10px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    font-size: x-large;
+    letter-spacing: 2px;
+    padding-top: 30px;
+    padding-right: 50px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid black;
 }
