@@ -80,8 +80,11 @@ header {
 
 #aboutus {
     font-weight: 1000;
+    text-align: center;    
+}
+
+#tribute {
     text-align: center;
-    
 }
 
 /* Main Body photos */
