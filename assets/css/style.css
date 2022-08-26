@@ -212,5 +212,31 @@ footer{
     color: black;
 }
 
+/* Media queries */
 
+/* For larger to medium sceens size from 1200px wider and down */
+
+@media screen and (max-width: 1200px) {
+    .main-body {
+        height: 1200px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .about-left .joinus-right {
+        width: 100%;
+        float: left;
+        padding: 0%;
+    }
+}
    
+/* For medium screen sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+
+}
+
+/* For small screen sizes below 800px width */
+
+@media screen and (max-width: 800px) {
+}
