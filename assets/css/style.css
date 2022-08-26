@@ -75,7 +75,7 @@ header {
 
 /* Footer */
 
-.footer-content {
+.footer-main {
     text-align: center;
     height: 40px;
     width: 100%;
@@ -93,3 +93,18 @@ footer a {
     vertical-align: middle;
     padding: 1vh 2vw;
 }
+
+/* Gallery */
+
+#photos {
+    clear: both;
+    line-height: 0%;
+    column-count: 3;
+    column-gap: 0px;
+}
+
+#photos img {
+    width: 100%;
+}
+
+
