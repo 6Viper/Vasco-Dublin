@@ -47,7 +47,6 @@ header {
 /* Menu */
 
 #menu {
-
     height: 50%;
     width: 30%;
 
@@ -72,4 +71,32 @@ header {
 
 #menu a:hover {
     border-bottom: 1px solid black;
+}
+
+/* Footer */
+
+footer {
+    border: 2px solid;
+    height: 40px;
+    width: auto;
+    background-color: #ff7900;
+
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+.footer-content {
+    text-align: center;
+}
+
+.footer-content li {
+    display: inline;
+}
+
+.footer-content i {
+    font-size: 40px;
+    color: black;
+    
 }
