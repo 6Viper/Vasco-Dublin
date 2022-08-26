@@ -47,12 +47,13 @@ header {
 /* Menu */
 
 #menu {
-    border: 1px solid;
-    height: 60%;
+
+    height: 50%;
     width: 30%;
 
     position: absolute;
     right: 10px;
+    top: 10px;
 }
 
 #menu li {
@@ -60,7 +61,7 @@ header {
     list-style-type: none;
     font-size: x-large;
     letter-spacing: 2px;
-    padding-top: 30px;
+    padding-top: 20px;
     padding-right: 50px;
 }
 
