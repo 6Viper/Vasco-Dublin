@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Vasco Dublin</title>
 </head>
-<body id="backgroundflag">
-    <header>        
+<body>
+    <header> 
         <div class="admiral-image">
             <img src="/assets/images/Almirante da ilha.png" alt="Admiral Logo">
         </div>            
@@ -30,13 +30,14 @@
                 <a href="index.html" aria-label="Home (bring you to Home section)">Home</a>
             </li>
         </ul>
-    </nav>
-</header>
+        </nav>
+    </header>
+
+    <div class="form-left">
         <form  class="signup-form" action="" method="post">
-            <h1>Contact us</h1>
-            <p>
-                Please fill in the form below so we can get in touch with you.
-            </p>
+        <fieldset>
+            <legend>Contact us</legend>
+
             <label for="name">Name</label>
             <input class="text-input" id="fname" type="text" name="full_name" required>
 
@@ -53,7 +54,10 @@
             <input type="radio" id="signupwapp" name="signup_wapp" value="wapp">
 
             <input class="kickoff-button" type="submit" value="Kick off!">
+        </fieldset>
         </form>
+    </div>
+    
     <footer class="footer-main">
         <a href="https://www.instagram.com/vascodublin/?hl=en" target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i></a>
         <a href="https://m.facebook.com/Vasco-Dublin-112125238034235/" target="_blank" rel="noopener"><i class="fa-brands fa-facebook"></i></a>
