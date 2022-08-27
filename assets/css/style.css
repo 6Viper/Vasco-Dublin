@@ -178,11 +178,12 @@ footer a {
 
 .text1 {
     border: 2px solid;
-
+    padding: 160px 0 40px 0;
 }
 
 .box img {
-
+    width: 100%;
+    height: 100%;
 }
 
 .box1 img {
@@ -195,13 +196,10 @@ footer a {
 
 .text2 {
     border: 2px solid;
+    padding: 30px 0px 40px 0;
 }
 
-.box img {
-
-}
-
-.box2 img {
+.box2 img {    
     object-fit: cover;
 }
 
