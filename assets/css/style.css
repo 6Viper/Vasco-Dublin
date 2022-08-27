@@ -110,17 +110,20 @@ footer a {
 /* Video */
 
 #tribute {
-    border: 2px solid;
-    height: 300px;
-    width: 500px;
+    height: 600px;
+    width: 800px;
     margin-bottom: 10px;
-
+    margin-left: 33%;
 }
 
 .tribute-heading {
-
+    text-align: center;
+    font-size: larger;    
 }
 
 .video {
-
+    height: 400px;
+    width: 700px;
+    margin-left: 50px;
+    margin-top: 50px;
 }
