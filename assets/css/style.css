@@ -231,7 +231,7 @@ footer a {
     #menu {
         position: absolute;
         right: 10px;
-        top: 10px;
+        top: 0px;
         letter-spacing: 0px;
         padding: 0;
     } 
@@ -274,11 +274,11 @@ footer a {
         top: 52px;
         left: 35px;
     }
-    
+
     #menu {
         position: absolute;
         right: 10px;
-        top: 10px;
+        top: -5px;
         letter-spacing: 0px;
         padding: 0;
     } 
@@ -315,7 +315,7 @@ footer a {
     #logo {
         position: absolute;
         top: 0px;
-        left: 30px;
+        left: 25px;
         font-size: x-large;
     }
 
@@ -324,14 +324,14 @@ footer a {
         height: 90px;
         width: 90px;
         position: absolute;
-        top: 60px;
-        left: 50px;
+        top: 55px;
+        left: 45px;
     }
 
     #menu {
         position: absolute;
         right: 10px;
-        top: 10px;
+        top: -8px;
         letter-spacing: 0px;
         padding: 0;
     } 
