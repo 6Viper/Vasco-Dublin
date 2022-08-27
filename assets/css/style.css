@@ -120,6 +120,14 @@ header {
     height: 20px;      
 }
 
+::placeholder {
+    color: #fff;
+}
+
+.text-input:hover {
+    border-color: #ff7900;
+}
+
 
 /* Footer */
 
