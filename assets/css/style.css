@@ -82,6 +82,16 @@ header {
     background-size: cover;
    }
 
+.signup-form {
+    margin: 300px 60% 0 0;
+    color: #fff;
+    background-color: rgba(171, 183, 183, 0.4);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 100px;
+}
+   
 /* Footer */
 
 .footer-main {
