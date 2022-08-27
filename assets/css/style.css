@@ -91,7 +91,12 @@ header {
     left: 10%;
     padding: 100px;
 }
-   
+
+.signup-form h1 {
+    color: #f19812;
+    margin-bottom: 30px;
+}
+
 /* Footer */
 
 .footer-main {
