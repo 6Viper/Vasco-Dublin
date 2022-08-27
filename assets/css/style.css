@@ -196,7 +196,7 @@ footer a {
 
 .text2 {
     border: 2px solid;
-    padding: 30px 0px 40px 0;
+    padding: 30px 0px 50px 0;
 }
 
 .box2 img {    
@@ -205,16 +205,19 @@ footer a {
 
 /* Video */
 
-#tribute {
-
-}
-
 .tribute-heading {
-    text-align: center;
+    border: 2px solid;
+    padding: 30px 0px 50px 0;
     font-size: larger;    
 }
 
-.video {
-
+.tribute-video {
+    border: 2px solid;
+    padding: 50px 0px 50px 0;
+    font-size: larger; 
 }
 
+.video {
+    width: 66%;
+    height: 500px;
+}
