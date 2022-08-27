@@ -73,6 +73,15 @@ header {
     border-bottom: 1px solid black;
 }
 
+/* Join us */
+
+#backgroundflag {   
+    background: url('../images//Flags\ vasco\ dublin.jpg') no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+   }
+
 /* Footer */
 
 .footer-main {
