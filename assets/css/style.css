@@ -11,6 +11,9 @@ p {
     font-size: medium;
 }
 
+body {
+    background-color: lightgray;
+}
 /* Header style */
 
 header {
@@ -168,10 +171,10 @@ footer a {
 /* Home page */
 
 #main-body {
-    border: 2px solid;
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
+    background-color: snow;
 }
 
 .text1 {
@@ -195,12 +198,12 @@ footer a {
     object-fit: cover;
 }
 
-/* Video */
-
 .tribute-heading {
     padding: 30px 0px 50px 0;
     font-size: larger;    
 }
+
+/* Video */
 
 .tribute-video {
     padding: 50px 0px 50px 0;
