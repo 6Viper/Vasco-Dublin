@@ -17,7 +17,7 @@ body {
 /* Header style */
 
 header {
-    height: 120px;
+    height: 115px;
     width: auto;
     background-color: #009A44;
     
@@ -55,6 +55,7 @@ header {
     position: absolute;
     right: 10px;
     top: 10px;
+    margin-right: 2%;
 }
 
 #menu li {
