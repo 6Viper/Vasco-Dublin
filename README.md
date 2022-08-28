@@ -1,8 +1,14 @@
-Vasco Dublin
+# Vasco Dublin
 
-In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
+This website was made for the First Project required to complete the Diploma in Full Stack Software Development program at The Code Institute and hoes to accomlish with success all requirements as well to provide the developer a great experience and learning process. 
 
--Features
+This website intends to target Vasco da Gama fans from all around the world and specially those living in Dublin, Ireland. Fans are able to get to know us and join us to share this common love. This is a community with similar passion that not only can reward you with common knowlodge regarding the team but a great oportunity to make friends, specially for those who miss their friends and routine at home country.
+
+![Vasco Dublin Mockup](Img link)
+
+[View the live project here](Link to website)
+
+## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
