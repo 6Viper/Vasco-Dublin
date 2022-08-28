@@ -78,9 +78,8 @@ header {
 /* Join us */
 
 .flagphoto {
-    background: url('../images/Flagsvascodublin.jpg') no-repeat;
+    background: url('../images/Flagsvascodublin.jpg');
     background-size: cover;
-
 }
 
 .signup-form {
@@ -88,7 +87,7 @@ header {
     background-color: rgba(216, 221, 221, 0.7);
     max-width: 400px;
     padding: 10px;
-    margin-top: 170px;
+    margin-top: 245px;
     margin-left: 10%;
 }
 
@@ -295,6 +294,14 @@ footer a {
         column-count: 2;
         
     }
+    
+    .signup-form {
+        margin-top: 200px;
+    }
+
+    footer {
+        height: 34px;
+    }
 }
 
 /* For larger to medium screens size from 550px wide and down */
@@ -344,6 +351,10 @@ footer a {
 
     #photos {
         column-count: 1;
+    }
+
+    .signup-form {
+        margin-right: 10%;
     }
 }
 
