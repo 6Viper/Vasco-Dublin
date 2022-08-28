@@ -365,20 +365,16 @@ footer a {
 /* For larger to medium screens size from 460px wide and down */
 @media screen and (max-width: 460px) {
 
-    #menu {
-        position: absolute;
-        right: 10px;
-        top: -8px;
-        letter-spacing: 0px;
-        padding: 0;
-    } 
-
     #menu li {
         float: right;
         list-style-type: none;
         font-size: larger;
-        padding-top: 20px;
-        padding-right: 10px;
+        padding-top: 10px;
+        padding-right: 0px;
+        margin-right: 8%;
     }
 
+    #menu {
+        padding-left: 160px;
+    }
 }
