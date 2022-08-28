@@ -302,6 +302,10 @@ footer a {
     footer {
         height: 34px;
     }
+
+    .video {
+        height: 330px;
+    }
 }
 
 /* For larger to medium screens size from 550px wide and down */
