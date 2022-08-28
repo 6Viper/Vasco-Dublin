@@ -78,7 +78,7 @@ header {
 /* Join us */
 
 .flagphoto {
-    background: url('../images/Flags\ vasco\ dublin.jpg') no-repeat;
+    background: url('../images/Flagsvascodublin.jpg') no-repeat;
     background-size: cover;
 
 }
@@ -87,7 +87,7 @@ header {
     color: black;
     background-color: rgba(216, 221, 221, 0.7);
     max-width: 400px;
-    padding: 50px;
+    padding: 10px;
     margin-top: 170px;
     margin-left: 10%;
 }
@@ -244,7 +244,6 @@ footer a {
         padding-top: 20px;
         padding-right: 30px;
     }
-
 }
 
 /* For larger to medium screens size from 800px wide and down */
@@ -296,12 +295,10 @@ footer a {
         column-count: 2;
         
     }
-
-
 }
 
-/* For larger to medium screens size from 500px wide and down */
-@media screen and (max-width: 500px) {
+/* For larger to medium screens size from 550px wide and down */
+@media screen and (max-width: 550px) {
 
     header {
         height: 80px;
@@ -348,6 +345,25 @@ footer a {
     #photos {
         column-count: 1;
     }
+}
 
+/* For larger to medium screens size from 460px wide and down */
+@media screen and (max-width: 460px) {
+
+    #menu {
+        position: absolute;
+        right: 10px;
+        top: -8px;
+        letter-spacing: 0px;
+        padding: 0;
+    } 
+
+    #menu li {
+        float: right;
+        list-style-type: none;
+        font-size: larger;
+        padding-top: 20px;
+        padding-right: 10px;
+    }
 
 }
