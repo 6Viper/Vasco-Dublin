@@ -72,15 +72,24 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- To have live schedule introduced for next games.
+- To introduce page designed to sell our uniforms, jackets and acessories to support charities.
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- Different browsers(Chrome, Safari and Firefox) been tested to verify that page would work with no issue as well as mobile and table devices are responsive to Media querie styles implemented.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- The project is responsive, have a good clean visual effect and is fully functional.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- All features within header, main body, footer, menu been tested to confirm working properly and texts are clear and readable as well easy to understand.
+
+- Form feature works where as desired all fields with except of "sign up for whatsapp group" are mandatory and submit button is responsive.
+
+## Bugs
+
+- __Solved bus__ 
+
+- You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
