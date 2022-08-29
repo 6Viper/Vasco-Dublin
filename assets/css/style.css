@@ -223,8 +223,8 @@ footer a {
 
 /* Media Queries */ 
 
-/* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-width: 1200px) {
+/* For larger to medium screens size from 1280px wide and down */
+@media screen and (max-width: 1280px) {
 
     header {
         height: 105px;
@@ -250,6 +250,10 @@ footer a {
         font-size: x-large;
         padding-top: 20px;
         padding-right: 30px;
+    }
+
+    .signup-form {
+        margin-top: 215px;
     }
 }
 
