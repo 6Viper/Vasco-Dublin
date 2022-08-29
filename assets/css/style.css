@@ -140,7 +140,7 @@ header {
 
 footer {
     text-align: center;
-    height: 40px;
+    height: 32px;
     width: 100%;
     background-color: #ff7900;
     position: relative;
@@ -155,9 +155,9 @@ footer {
 footer a {
     text-align: center;
     color: black;
-    font-size: 32px;
+    font-size: 30px;
     vertical-align: middle;
-    padding: 1vh 2vw;
+    padding: 0vh 3vw;
 }
 
 /* Gallery */
@@ -308,10 +308,6 @@ footer a {
     
     .signup-form {
         margin-top: 200px;
-    }
-
-    footer {
-        height: 34px;
     }
 
     .video {
