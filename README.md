@@ -100,7 +100,8 @@ This website intends to target Vasco da Gama fans from all around the world and 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](link)
 - Accessibility
-  - checked?
+  - Accessibility confirmed by running it through lighthouse in devtools
+  ![Accessibility](assets/images/lighthouse.png)
 
 ## Unfixed Bugs
 
