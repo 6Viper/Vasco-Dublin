@@ -4,7 +4,7 @@ This website was made for the First Project required to complete the Diploma in 
 
 This website intends to target Vasco da Gama fans from all around the world and specially those living in Dublin, Ireland. Fans are able to get to know us and join us to share this common love. This is a community with similar passion that not only can reward you with common knowledge regarding the team but a great oportunity to make friends, specially for those who miss their routine and friends back at home country.
 
-![Vasco Dublin Mockup](Img link)
+![Vasco Dublin Mockup](assets/images/mockupframe.png)
 
 [View the live project here](https://6viper.github.io/Vasco-Dublin/)
 
@@ -23,48 +23,48 @@ This website intends to target Vasco da Gama fans from all around the world and 
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the "back" button. 
   - The navigation bar includes a hover option underlining text to provide you a more visual friendly look and to give you a responsive idea of where are you about to click.
 
-![Nav Bar](/assets/images/navigationbar.png)
+![Nav Bar](assets/images/navigationbar.png)
 
 - __The landing page image__
 
   - The landing page includes a photograph of our team in the field and who we are description providing details as since when we exist, our goals and respect to what our flag stands for. 
 
-![Landing Page](/assets/images/landingpage.png)
+![Landing Page](assets/images/landingpage.png)
 
 - __Come Join Us__
 
   - This mid section provides an invitation to join us by showing a picture of our fan club watching the game in a bar, a happy moment for our members.
   - The user will aknowledge this invitation with a warm styling link in form of text trough out our message, we take this opportunity to also inform where we gather during the games and that it is not mandatory to consume alcohol in this location.
 
-![Come Join us](/assets/images/comejoinus.png)
+![Come Join us](assets/images/comejoinus.png)
 
 - __Video Tribute__
 
   - Youtube video embedded to this page feature included to display the use of Iframe synthax learned in this course.
   - A preview text above the video suggesting it's content, video would display a few footages from Vasco da Gama team trough the 80's, 90's and 2000, our Vasco Dublin members with new shirt and a tribute to a loved member who died tragically from a hit and run in Dublin. 
 
-![Video](/assets/images/videotribute.png)
+![Video](assets/images/videotribute.png)
 
 - __The Footer__ 
 
   - Appearing on every page the footer section includes links through icons from "Font Awesome" to the relevant social media sites for Vasco Dublin. The links will open to a new tab to allow easy navigation for the user. 
   - The icons should appear on centre of footer and social media it's mandatory this days, to create a better connection as well main form of news and point of contact along our form.
 
-![Footer](/assets/images/footer.png)
+![Footer](assets/images/footer.png)
 
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see more of our members, what we do, our meetings, our games as well as cool logos and flags. 
   - Through properties such as column gaps and count learned in this course we provide a more visual friendly frame to the user. 
 
-![Gallery](/assets/images/gallery.png)
+![Gallery](assets/images/gallery.png)
 
 - __The Sign Up Page__
 
   - This page will allow the user to contac us through a form feature, including name, email, mobile number, desired message and option to join us on whatsapp group.
   - The form is grouped with fieldset tag as well as have other visual friendly and nice design features such as background color faded giving you opportunity to see flag image behind, border colors for hover option to visualy identify where you at, mandatory field setting to inform what is missing.
 
-![Contact us](/assets/images/contactus.png)
+![Contact us](assets/images/contactus.png)
 
 ### Features Left to Implement
 
