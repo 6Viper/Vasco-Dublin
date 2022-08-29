@@ -40,22 +40,22 @@ This website intends to target Vasco da Gama fans from all around the world and 
 
 - __Video Tribute__
 
-  - Youtube video embedded to this page feature included to display the use and iframe tag element.
+  - Youtube video embedded to this page feature included to display the use of Iframe synthax learned in this course.
   - A preview text above the video suggesting it's content, video would display a few footages from Vasco da Gama team trough the 80's, 90's and 2000, our Vasco Dublin members with new shirt and a tribute to a loved member who died tragicly from a hit and run in Dublin. 
 
 ![Video](/assets/images/videotribute.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - Appearing on every page the footer section includes links through icons from "Font Awesome" to the relevant social media sites for Vasco Dublin. The links will open to a new tab to allow easy navigation for the user. 
+  - The icons should appear on centre of footer and social media it's mandatory this days, to create a better connection as well main form of news and point of contact along our form.
 
 ![Footer](/assets/images/footer.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with supporting images to see more of our members, what we do, our meetings, our games as well as cool logos and flags. 
+  - Through properties such as column gaps and count learned in this course we provide a more visual friendly frame to the user. 
 
 ![Gallery](/assets/images/gallery.png)
 
