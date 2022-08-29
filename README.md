@@ -6,7 +6,7 @@ This website intends to target Vasco da Gama fans from all around the world and 
 
 ![Vasco Dublin Mockup](Img link)
 
-[View the live project here](Link to website)
+[View the live project here](https://6viper.github.io/Vasco-Dublin/)
 
 ## Features 
 
@@ -130,10 +130,11 @@ No unfixed bugs
 - Through Gitpod terminal I have executed commitments and pushed changes to [GitHub](https://github.com/ "Link to GitHub").
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - From the source section General, select the option "Pages".
+  - Under GitHub Pages, select Branch from "None" to "main".
+  - Once selected "main" push the save option, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - 
+The live link can be found here - https://6viper.github.io/Vasco-Dublin/
 
 ## Credits 
 
