@@ -1,8 +1,8 @@
 # Vasco Dublin
 
-This website was made for the First Project required to complete the Diploma in Full Stack Software Development program at The Code Institute and hoes to accomlish with success all requirements as well to provide the developer a great experience and learning process. 
+This website was made for the First Project required to complete the Diploma in Full Stack Software Development program at The Code Institute and hoes to accomplish with success all requirements as well to provide the developer a great learning experience through out the process. 
 
-This website intends to target Vasco da Gama fans from all around the world and specially those living in Dublin, Ireland. Fans are able to get to know us and join us to share this common love. This is a community with similar passion that not only can reward you with common knowlodge regarding the team but a great oportunity to make friends, specially for those who miss their friends and routine at home country.
+This website intends to target Vasco da Gama fans from all around the world and specially those living in Dublin, Ireland. Fans are able to get to know us and join us to share this common love. This is a community with similar passion that not only can reward you with common knowledge regarding the team but a great oportunity to make friends, specially for those who miss their routine and friends back at home country.
 
 ![Vasco Dublin Mockup](Img link)
 
@@ -104,7 +104,7 @@ In addition, you may also use this section to discuss plans for additional featu
   - No errors were found when passing through the official [(Jigsaw) validator](link)
 - Accessibility
   - checked?
-  
+
 ## Unfixed Bugs
 
 No unfixed bugs
