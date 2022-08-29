@@ -372,6 +372,10 @@ footer a {
     .signup-form {
         margin-right: 10%;
     }
+
+    .video {
+        height: 240px;
+    }
 }
 
 /* For larger to medium screens size from 460px wide and down */
@@ -388,5 +392,9 @@ footer a {
 
     #menu {
         padding-left: 160px;
+    }
+
+    .video {
+        height: 186px;
     }
 }
