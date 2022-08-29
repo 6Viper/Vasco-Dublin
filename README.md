@@ -89,6 +89,7 @@ This website intends to target Vasco da Gama fans from all around the world and 
 - Gitpod blanked returning with no access to github, unable to push. A sign in from terminal or app would not work, resulting on having to open a new gitpod from github and paste changes made.
 - Issues to set up logo image properly and having to recap CSS lessons as well using codebro channel to better understand how margins and padding works.
 - Error 404 as href for "Video" was changed from id to class, issue solved.
+- Error 404 as some images had extra / on path, hence not loading.
 - Error 501 for unsupported method form, fixed.
 - Space left on jpeg files later adjusted.
 
