@@ -61,7 +61,8 @@ This website intends to target Vasco da Gama fans from all around the world and 
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to contac us through a form feature, including name, email, mobile number, desired message and option to join us on whatsapp group.
+  - The form is grouped with fieldset tag as well as have other visual friendly and nice design features such as background color faded giving you opportunity to see flag image behind, border colors for hover option to visualy identify where you at, mandatory field setting to inform what is missing.
 
 ![Contact us](/assets/images/contactus.png)
 
