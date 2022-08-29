@@ -14,20 +14,20 @@ This website intends to target Vasco da Gama fans from all around the world and 
 
 - __Header__
 
-  - Featured on all pages, the header will include our club Logo including our name and menu to the right handside.
-  - Over half of the logo is present as overlay to provide a consistent presence everywhere you go reminding you who we are.
+  - Featured on all pages, the header will include our club logo including our name and menu to the right handside.
+  - Over half of the logo is presented as overlay to provide a consistent presence everywhere you go, reminding you who we are.
 
 - __Navigation Bar__
 
-  - Featured on all pages, the full responsive navigation bar always displayed on the top right includes links to the Home page, Video, Gallery and Join Us page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all pages, the full responsive navigation bar always displayed on the top right includes links to the Home, Video, Gallery and Join Us page and is identical in each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the "back" button. 
   - The navigation bar includes a hover option underlining text to provide you a more visual friendly look and to give you a responsive idea of where are you about to click.
 
 ![Nav Bar](/assets/images/navigationbar.png)
 
 - __The landing page image__
 
-  - The landing includes a photograph of our team in the field and who we are description providing details as since when we exist, our goals and respect to what our flag stands for. 
+  - The landing page includes a photograph of our team in the field and who we are description providing details as since when we exist, our goals and respect to what our flag stands for. 
 
 ![Landing Page](/assets/images/landingpage.png)
 
@@ -41,7 +41,7 @@ This website intends to target Vasco da Gama fans from all around the world and 
 - __Video Tribute__
 
   - Youtube video embedded to this page feature included to display the use of Iframe synthax learned in this course.
-  - A preview text above the video suggesting it's content, video would display a few footages from Vasco da Gama team trough the 80's, 90's and 2000, our Vasco Dublin members with new shirt and a tribute to a loved member who died tragicly from a hit and run in Dublin. 
+  - A preview text above the video suggesting it's content, video would display a few footages from Vasco da Gama team trough the 80's, 90's and 2000, our Vasco Dublin members with new shirt and a tribute to a loved member who died tragically from a hit and run in Dublin. 
 
 ![Video](/assets/images/videotribute.png)
 
@@ -65,10 +65,6 @@ This website intends to target Vasco da Gama fans from all around the world and 
   - The form is grouped with fieldset tag as well as have other visual friendly and nice design features such as background color faded giving you opportunity to see flag image behind, border colors for hover option to visualy identify where you at, mandatory field setting to inform what is missing.
 
 ![Contact us](/assets/images/contactus.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
@@ -118,13 +114,13 @@ No unfixed bugs
 ### Frameworks, Libraries & Programs Used
 
 - [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
-    - Google fonts was used to import the fonts "Special Elite", "Open Sans", "Oswald" and "Nosifer" into the style.css file. These fonts were used throughout the project.
+    - Google fonts was used to import the fonts "Open Sans" and "Playfair" into the style.css file. These fonts were used throughout the project.
 - [Font Awesome](https://fontawesome.com/ "Link to FontAwesome")
-     - Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+     - Font Awesome was used on all pages of this website to import icons to the footer (social media icons) for UX purposes.
 - [GitPod](https://gitpod.io/ "Link to GitPod homepage")
      - GitPod was used for writing code, commiting, and then pushing to GitHub.
 - [GitHub](https://github.com/ "Link to GitHub")
-     - GitHub was used to store the project after pushing
+     - GitHub was used to store the project after pushing.
 - [Figma](https://www.figma.com/ "Link to Figma homepage")
      - Figma was used to create the concept art during the design phase of the project.
 
@@ -140,10 +136,6 @@ No unfixed bugs
 The live link can be found here - 
 
 ## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 ### Content 
 
