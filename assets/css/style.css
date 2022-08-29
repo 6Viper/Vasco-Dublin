@@ -212,7 +212,7 @@ footer a {
 /* Video */
 
 .tribute-video {
-    padding: 50px 0px 50px 0;
+    padding: 30px 0px 50px 0;
     font-size: larger; 
 }
 
@@ -376,6 +376,11 @@ footer a {
     .video {
         height: 240px;
     }
+
+    .tribute-video {
+        padding: 15px 0px 50px 0;
+        font-size: larger;
+    }
 }
 
 /* For larger to medium screens size from 460px wide and down */
@@ -396,5 +401,10 @@ footer a {
 
     .video {
         height: 186px;
+    }
+
+    .tribute-video {
+        padding: 5px 0px 50px 0;
+        font-size: larger;
     }
 }
