@@ -10,35 +10,38 @@ This website intends to target Vasco da Gama fans from all around the world and 
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
+
+- __Header__
+
+  - Featured on all pages, the header will include our club Logo including our name and menu to the right handside.
+  - Over half of the logo is present as overlay to provide a consistent presence everywhere you go reminding you who we are.
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all pages, the full responsive navigation bar always displayed on the top right includes links to the Home page, Video, Gallery and Join Us page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - The navigation bar includes a hover option underlining text to provide you a more visual friendly look and to give you a responsive idea of where are you about to click.
 
 ![Nav Bar](/assets/images/navigationbar.png)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a photograph of our team in the field and who we are description providing details as since when we exist, our goals and respect to what our flag stands for. 
 
 ![Landing Page](/assets/images/landingpage.png)
 
-- __Club Ethos Section__
+- __Come Join Us__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - This mid section provides an invitation to join us by showing a picture of our fan club watching the game in a bar, a happy moment for our members.
+  - The user will aknowledge this invitation with a warm styling link in form of text trough out our message, we take this opportunity to also inform where we gather during the games and that it is not mandatory to consume alcohol in this location.
 
 ![Come Join us](/assets/images/comejoinus.png)
 
-- __Meetup Times section__
+- __Video Tribute__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - Youtube video embedded to this page feature included to display the use and iframe tag element.
+  - A preview text above the video suggesting it's content, video would display a few footages from Vasco da Gama team trough the 80's, 90's and 2000, our Vasco Dublin members with new shirt and a tribute to a loved member who died tragicly from a hit and run in Dublin. 
 
 ![Video](/assets/images/videotribute.png)
 
