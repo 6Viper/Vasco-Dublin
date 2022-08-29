@@ -85,25 +85,46 @@ In addition, you may also use this section to discuss plans for additional featu
 
 - Form feature works where as desired all fields with except of "sign up for whatsapp group" are mandatory and submit button is responsive.
 
-## Bugs
+## Issues and Bugs
 
-- __Solved bus__ 
+- Wrong use of rel attribute instead of target for _blank value.
+- Embedded video link missused where forgot to remove parts of Youtube video link.
+- Forgot to commit at certain stage of process leading to "modified" or "unmarked" notifications on GitPod having to research I was missing a simple save input.
+- Gitpod blanked returning with no access to github, unable to push. A sign in from terminal or app would not work, resulting on having to open a new gitpod from github and paste changes made.
+- Issues to set up logo image properly and having to recap CSS lessons as well using codebro channel to better understand how margins and padding works.
+- Error 404 as href for "Video" was changed from id to class, issue solved.
+- Error 501 for unsupported method form, fixed.
+- Space left on jpeg files later adjusted.
 
-- You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-
-### Validator Testing 
+## Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](link)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](link)
 
-### Unfixed Bugs
+## Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+No unfixed bugs
+
+## Technologies Used
+### Main language used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5 "Link to HTML Wiki")
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets "Link to CSS Wiki")
+
+###Frameworks, Libraries & Programs Used
+
+- [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
+    - Google fonts was used to import the fonts "Special Elite", "Open Sans", "Oswald" and "Nosifer" into the style.css file. These fonts were used throughout the project.
+- [Font Awesome](https://fontawesome.com/ "Link to FontAwesome")
+     - Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
+- [GitPod](https://gitpod.io/ "Link to GitPod homepage")
+     - GitPod was used for writing code, commiting, and then pushing to GitHub.
+- [GitHub](https://github.com/ "Link to GitHub")
+     - GitHub was used to store the project after pushing
+- [Figma](https://www.figma.com/ "Link to Figma homepage")
+     - Figma was used to create the concept art during the design phase of the project.
 
 ## Deployment
 
